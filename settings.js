@@ -54,7 +54,8 @@ https://discord.gg/xtqSuu5xgG
 
 ⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇⑇
 
-〄ｐｏｗｅｒｄ   ｂｙ - Ꭱ2ᴋ᭄ᴠɪɴᴢ亗²⁰²²` //Costomize Alive Message (type your message in `` )
+〄ｐｏｗｅｒｄ   ｂｙ - Ꭱ2ᴋ᭄ᴠɪɴᴢ亗²⁰²²
+〄ｐｏｗｅｒｄ   ｂｙ - 𝓣𝓱𝓮 𝓢𝓮𝓮𝓴𝓮𝓻` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -91,9 +92,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94761836780']
 global.ownertag = '+94761836780' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.botname = '◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ' //ur bot name
+global.packname = "ʀᴜꜱʜᴛᴏᴋɪʟʟ ᴇꜱᴩᴏʀᴛꜱ" // sticker packname
+global.author = "◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚆𝚒𝚝𝚑 - ◤ᎡᴜsʜͲᴏᏦɪʟʟ◢ ʙᴏᴛ' //
 
